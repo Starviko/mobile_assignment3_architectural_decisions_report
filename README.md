@@ -9,12 +9,21 @@ This repository contains a collection of decision records (ADRs - Architecture D
 # Table of Contents
 
 1.App Type
+
 2.UI Framework
+
 3.Backend Language
+
 4.Permissions
+
 5.Data Storage
+
 6.Payment Gateways
+
 7.Analytics Tool
+
 8.Image Storage and Optimization
+
 9.Localization
+
 10.Push Notification Service
